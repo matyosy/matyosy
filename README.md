@@ -1,16 +1,22 @@
-### Hi there 👋
+# Yoshitaka M. — Japanese Localization QA Specialist
 
-<!--
-**matyosy/matyosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Japanese SaaS UI Localization QA**, focusing on:
+- Terminology consistency
+- UX-oriented Japanese text refinement
+- Error message quality
+- MTPE improvement
+- Cross-platform UI text review
 
-Here are some ideas to get you started:
+## Portfolio
+🔗 Japanese SaaS UI Localization QA Portfolio  
+（GitHub Pages またはリポジトリへのリンク）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Localization QA / MTPE
+- Japanese UX writing
+- SaaS UI text review
+- Markdown / GitHub workflow
+
+## Contact
+Upwork: [Yoshitaka M.]
+GitHub: matyosy
