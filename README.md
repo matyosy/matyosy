@@ -20,4 +20,5 @@ Japanese Localization QA | AI Translation Review | UX Copy Check
 
 ## Contact
 Upwork: [Yoshitaka M.]
+
 GitHub: matyosy
