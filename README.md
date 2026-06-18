@@ -9,8 +9,8 @@ Japanese Localization QA | AI Translation Review | UX Copy Check
 - Context Validation
 
 ## Portfolio
-🔗 Japanese SaaS UI Localization QA Portfolio  
-（GitHub Pages またはリポジトリへのリンク）
+- Japanese Localization QA Portfolio
+- English-to-Japanese AI Translation Review Sample
 
 ## Skills
 - Localization QA / MTPE
