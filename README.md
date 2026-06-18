@@ -18,7 +18,7 @@ Japanese Localization QA | AI Translation Review | UX Copy Check
 - SaaS UI text review
 - Markdown / GitHub workflow
 
-## Contact
-Upwork: [Yoshitaka M.]
-
-GitHub: matyosy
+## Current Focus
+Improving Japanese user experiences through
+localization QA, AI translation review,
+and UX copy improvement.
