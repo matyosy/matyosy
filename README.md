@@ -1,12 +1,12 @@
 # Yoshitaka M. — Japanese Localization QA Specialist
 
 ## Focus Areas
--Japanese Localization QA
--AI Translation Review
--UI Text Review
--UX Copy Improvement
--Terminology Consistency
--Context Validation
+- Japanese Localization QA
+- AI Translation Review
+- UI Text Review
+- UX Copy Improvement
+- Terminology Consistency
+- Context Validation
 
 ## Portfolio
 🔗 Japanese SaaS UI Localization QA Portfolio  
