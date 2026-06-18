@@ -1,6 +1,7 @@
 # Yoshitaka M. — Japanese Localization QA Specialist
 
 Native Japanese Reviewer
+
 Japanese Localization QA | AI Translation Review | UX Copy Check
 ## Focus Areas
 - Japanese Localization QA
