@@ -12,7 +12,7 @@ Japanese Localization QA | AI Translation Review | UX Copy Check
 - Context Validation
 
 ## Portfolio
-- Japanese Localization QA Portfolio
+- [Japanese Localization QA Portfolio](https://matyosy.github.io/localization-qa-portfolio-demo/)
 - English-to-Japanese AI Translation Review Sample
 
 ## Skills
